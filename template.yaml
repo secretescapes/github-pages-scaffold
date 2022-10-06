@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1beta3
 kind: Template
 metadata:
-  name: github-pages-website-test
-  title: GitHub Pages Website Test
+  name: github-pages-website
+  title: GitHub Pages Website
   description: Create a static HTML website and publish it via GitHub pages.
 
 spec:
